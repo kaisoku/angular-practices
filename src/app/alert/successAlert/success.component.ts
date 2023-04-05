@@ -8,7 +8,7 @@ import { Component } from "@angular/core";
       p {
         color: green;
       }
-    `
-  ]
+    `,
+  ],
 })
 export class SuccessAlertComponent {}
